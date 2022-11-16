@@ -129,6 +129,10 @@ new CDKTFWorkShop(app, "demo", {
   - [TypeScript Documentation](https://www.typescriptlang.org/docs/)
   - [TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
 
+## Author(s)
+
+- [Darrel Richards](https://github.com/DarrellRichards)
+
 ## Contributing
 
 If you have suggestions for how this workshop could be improved, or want to report a bug, open an issue! We'd love all and any contributions.
